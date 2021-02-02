@@ -18,7 +18,7 @@ Network training/inference is a memory-intensive process. If you run into out of
 Once the SageMaker instance is successfully launched, open a terminal and follow the commands below:
 ```shell
 $ cd ~/SageMaker/
-$ git clone https://github.com/aws-samples/helmet_detection.git
+$ git clone https://github.com/jayeetaghosh/helmet_detection.git
 $ cd helmet_detection
 ```
 This will download the repository and take you to the repository directory.
